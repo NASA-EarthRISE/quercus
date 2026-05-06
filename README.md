@@ -1,7 +1,9 @@
 # QUERCUS
 **Quantitative Unsupervised Extraction and Remote Classification of Unstructured Scenes**
 
-Quick start
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20059145.svg)](https://doi.org/10.5281/zenodo.20059145)
+
+Tim Mayer. (2026). NASA-EarthRISE/quercus: v1.0.1 (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20059145
 
 Automated detection and classification of oak species (*Quercus* spp.) from
 historical aerial imagery using SAM segmentation, Landsat/NAIP NDVI, and
