@@ -12,8 +12,9 @@ K-Means clustering.
 ## Install
 
 ```bash
-pip install git+https://github.com/MayerT1/quercus.git
-pip install segment-geospatial   # SAM dependency
+!pip install -q git+https://github.com/NASA-EarthRISE/quercus.git
+!pip install -q segment-geospatial
+!pip install -q earthengine-api folium
 ```
 
 ## Quick start (Google Colab)
