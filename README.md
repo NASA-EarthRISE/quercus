@@ -3,8 +3,6 @@
 
 Quick start
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASA-EarthRISE/quercus/blob/main/notebooks/QUERCUS_v8_demo.ipynb)
-
 Automated detection and classification of oak species (*Quercus* spp.) from
 historical aerial imagery using SAM segmentation, Landsat/NAIP NDVI, and
 K-Means clustering.
